@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" cript that sends a request to the IRL & displays the body of the response"""
+"""Script that sends a request to the IRL & displays the body of the response"""
+
 
 import urllib.request
 import sys
