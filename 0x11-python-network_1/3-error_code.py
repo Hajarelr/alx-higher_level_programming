@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Script that sends a request to the IRL & displays the body of the response"""
+""" Script that takes in a URL and sends a request to the URL"""
 
 
 import urllib.request
