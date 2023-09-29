@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""Script that displays the X-Request-Id header variable of a request to a give URL"""
+"""Script that sends a request to the URL and displays it's result"""
+
+
 import sys
 import urllib.request
-
 
 if __name__ == "__main__":
     url = sys.argv[1]
